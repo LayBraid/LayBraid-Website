@@ -8,7 +8,7 @@ class Contact extends Component {
         return (
             <div className="profile--information--contact">
                 <div className="profile--information--contact--button--email">
-                    <a href="mailto:clement.loeuillet@epitech.eu" className="profile--information--contact--email">
+                    <a href="mailto:contact@laybraid.fr" className="profile--information--contact--email">
                         <FontAwesomeIcon icon={faEnvelope} /> Email
                     </a>
                 </div>
